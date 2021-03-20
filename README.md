@@ -14,7 +14,7 @@ A Missions_to_Mars folder which contains:
 * scape_mars.py
 * templates folder - contains index.html
 
-##Instructions
+## Instructions
 
 ## Step 1 - Scraping
 
