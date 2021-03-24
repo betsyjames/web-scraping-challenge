@@ -15,7 +15,7 @@ A Missions_to_Mars folder which contains:
 * templates folder - contains index.html
 * screenshots of the rendered html page
 
-##Instructions
+## Instructions
 
 ## Step 1 - Scraping
 
