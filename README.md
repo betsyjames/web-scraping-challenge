@@ -13,6 +13,7 @@ A Missions_to_Mars folder which contains:
 * app.py
 * scape_mars.py
 * templates folder - contains index.html
+* screenshots of the rendered html page
 
 ##Instructions
 
